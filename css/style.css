@@ -1,7 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: "Georgia", serif;
   overflow: hidden;
 }
 
@@ -47,7 +47,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: red;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -99,13 +99,13 @@ body {
   display: block;
   text-align: center;
   font-size: 1.2em;
-  padding: 0 5px;
+  padding: 0 10px;
 }
 
 .source {
   font-size: 9pt;
-  font-style: italic;
-  color: gray;
+  font-style: Times New Roman;
+  color: red;
 }
 a.source:visited {
   color: grey;
